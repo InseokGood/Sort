@@ -13,6 +13,7 @@ int i, j, key;
     key =list[i];
     for(j=i-1;j>=0&&list[j]>key;j--)
       list[j+1]=list[j];
+    list[j+1]=key;
   }
 }
 int main(void) {
