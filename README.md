@@ -11,5 +11,7 @@
 
 #### 버블 정렬 2에 7승 출력화면
 ![2022-05-05 (7)](https://user-images.githubusercontent.com/101339244/166870269-8f217964-4e7f-475f-8399-b0f4e4adbadd.png)
-#### 쉘 정렬 2에 6승 출력화
+#### 쉘 정렬 2에 6승 출력화면
 ![2022-05-05 (9)](https://user-images.githubusercontent.com/101339244/166919528-3bf0b61d-ebfd-4377-a1db-d4d7802146bd.png)
+#### 힙 정렬 2에 7승 출력화면
+![2022-05-05 (10)](https://user-images.githubusercontent.com/101339244/166931365-e5ecd224-0a14-4e65-8e28-59a753db695e.png)
