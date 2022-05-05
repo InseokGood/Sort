@@ -7,6 +7,7 @@
 #### 선택 정렬 역정렬 
 ![2022-05-05 (1)](https://user-images.githubusercontent.com/101339244/166857463-6847f63f-7b01-43d4-bbf6-99795c2a1730.png)
 #### 삽입 정렬 2에 5승 출력화면
+![2022-05-05 (8)](https://user-images.githubusercontent.com/101339244/166870357-147af02c-6db5-4382-9740-b547c9e9b057.png)
 
 #### 버블 정렬 2에 7승 출력화면
 ![2022-05-05 (7)](https://user-images.githubusercontent.com/101339244/166870269-8f217964-4e7f-475f-8399-b0f4e4adbadd.png)
